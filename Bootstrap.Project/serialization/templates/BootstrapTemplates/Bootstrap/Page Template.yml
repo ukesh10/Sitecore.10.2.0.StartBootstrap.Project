@@ -1,0 +1,18 @@
+﻿---
+ID: "837121a0-6d62-4763-9272-675206fdffe8"
+Parent: "a5443276-36ea-45e4-9d6f-1bfeb20084fd"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Bootstrap/Page Template
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230506T170055Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

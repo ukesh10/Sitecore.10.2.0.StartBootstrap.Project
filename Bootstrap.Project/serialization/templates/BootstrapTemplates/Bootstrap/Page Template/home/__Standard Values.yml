@@ -1,0 +1,71 @@
+﻿---
+ID: "5f5cb7a6-ded9-403d-b7ca-c5afbe5bc8e3"
+Parent: "bbb38b26-4043-441b-adda-f3588bf7d7ca"
+Template: "bbb38b26-4043-441b-adda-f3588bf7d7ca"
+Path: /sitecore/templates/Bootstrap/Page Template/home/__Standard Values
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{9E2F14AD-27C4-4B74-8682-B521D9BD8C0F}">
+        <r
+          ds="{18BBB9C8-9A8C-456C-B88E-D907C7697F25}"
+          id="{A8CCC7A8-9F6F-4372-88A8-43ED759F3CC8}"
+          par=""
+          ph="main"
+          uid="{0998C288-5097-449C-AFCA-85AD81F39FB9}"
+          ccb="Clear on publish" />
+        <r
+          ds="{1AEA8F6D-52D5-44F5-81C5-351934C396A4}"
+          id="{28ADB95F-4977-4957-AA4E-8520030C73BA}"
+          par=""
+          ph="main"
+          uid="{02FF7A45-B5F3-4DAD-811E-DC133E6F02F7}"
+          ccb="Clear on publish" />
+        <r
+          ds="{B5A75F82-5B80-4180-9A74-36C0DE0CA927}"
+          id="{C59223A9-D4AA-4E4D-96E9-25934C612B9D}"
+          par=""
+          ph="main"
+          uid="{0D7A6C0D-FF0C-4BB1-A413-84A8053B6E2C}"
+          ccb="Clear on publish" />
+        <r
+          ds="{8EC2DC9B-B693-42FC-AD2A-1155D84F7AFE}"
+          id="{B3854230-EA59-4EF0-829C-B2E53A737DCA}"
+          par=""
+          ph="main"
+          uid="{0D7917A7-95C1-4883-AF47-1E4FF3F763FF}"
+          ccb="Clear on publish" />
+        <r
+          ds="{DE9EBDDD-4298-43D1-8ABD-1687DAF71A39}"
+          id="{DB70002F-1A31-42CD-BF1E-5A368A539658}"
+          par=""
+          ph="main"
+          uid="{E71DFA16-5AC6-4188-92BD-0AA3CE60F33E}"
+          ccb="Clear on publish" />
+        <r
+          ds="{D27A6012-77B7-49BA-81DD-567F995FD8A7}"
+          id="{FF012B2E-8CE4-4926-9F7E-7B52A2D80FC0}"
+          par=""
+          ph="main"
+          uid="{7BC213D4-3A2E-426E-A01C-93601CA9FA9E}"
+          ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230506T170322Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,28 @@
+﻿---
+ID: "d27a6012-77b7-49ba-81dd-567f995fd8a7"
+Parent: "d1e16c8c-3b2b-44c0-bb29-0d80e81878ba"
+Template: "e6da5997-5ffe-4825-a44b-22cfc87df3dd"
+Path: /sitecore/content/Bootstrap/Data/Contact Folder/Contact
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230511T140623Z
+    - ID: "25ddd080-ca49-4899-90e7-866ef84cb7a8"
+      Hint: Title
+      Value: CONTACT US
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "9a86f1e4-1004-4bcd-af6c-7d50dd3594b6"
+      Hint: Summary
+      Value: Lorem ipsum dolor sit amet consectetur.
+    - ID: "cfe0305a-487f-4a10-bb59-7c169b86957c"
+      Hint: Button
+      Value: |
+        <link text="SEND MESSAGE" anchor="" linktype="internal" class="" title=""  querystring="" id="{B877D586-AACA-4CBD-B7E7-2660CB78DA8F}" />

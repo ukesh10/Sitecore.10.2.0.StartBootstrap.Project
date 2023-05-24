@@ -1,0 +1,22 @@
+﻿---
+ID: "19b7d57e-7aa5-4e14-ac95-616f720f88ae"
+Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
+Template: "55adb9c8-40d4-47c2-93fb-c0c6762b90fc"
+Path: /sitecore/content/Bootstrap
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230506T170410Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

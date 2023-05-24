@@ -1,0 +1,22 @@
+﻿---
+ID: "20adaf64-d585-4b33-a7f4-0fb3699aa6b1"
+Parent: "89cef763-8e0e-4fb3-a0f1-17a6aa974af6"
+Template: "35099c74-03e1-4eee-a5ad-accd9e93c9ac"
+Path: /sitecore/content/Bootstrap/Data/About Folder
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230511T100255Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

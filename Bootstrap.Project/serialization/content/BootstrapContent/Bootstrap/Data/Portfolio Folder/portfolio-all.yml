@@ -1,0 +1,38 @@
+﻿---
+ID: "b5a75f82-5b80-4180-9a74-36c0de0ca927"
+Parent: "91616fd8-81f8-4fe9-91cc-ad4f0fa95019"
+Template: "b248e772-aee5-49be-a808-06e89bde8c2b"
+Path: "/sitecore/content/Bootstrap/Data/Portfolio Folder/portfolio-all"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "06d749dc-dab5-4125-90cb-5518787dbaa9"
+      Hint: Title
+      Value: PORTFOLIO
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230511T145426Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "64cf6149-b4b5-4b03-be24-f23f54b55cf4"
+      Hint: Summary
+      Value: Lorem ipsum dolor sit amet consectetur.
+    - ID: "6ea700d9-c30f-4bc6-84c0-01e8724dee90"
+      Hint: Slides
+      Type: Treelist
+      Value: |
+        {A2C22E7D-FE50-4581-B198-DDE8D54C7376}
+        {A541971A-630A-49A4-AC7B-F011BBBB31D5}
+        {54A45119-E86E-4DBC-B956-7F3218388F4C}
+        {056D2F3B-D542-4A8D-B993-90C000C4ECCE}
+        {6E447C83-3D01-4171-8B68-2A9E67C6FD7E}
+        {FC9D4D53-4D3A-480A-B691-B8D2BD8F5377}

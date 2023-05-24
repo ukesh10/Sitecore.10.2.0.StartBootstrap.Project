@@ -1,0 +1,32 @@
+﻿---
+ID: "dac9a505-ace2-441a-950f-555bc55f328e"
+Parent: "20adaf64-d585-4b33-a7f4-0fb3699aa6b1"
+Template: "afba3d2f-a775-4ac9-97df-6213351a1868"
+Path: /sitecore/content/Bootstrap/Data/About Folder/About Data 3
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230511T094156Z
+    - ID: "2796a9c8-f5a2-4f37-8d6c-4c9dfd652f07"
+      Hint: Subtitle
+      Value: Our Humble Beginnings
+    - ID: "3c28abde-0555-48a3-8c13-9b4abf934982"
+      Hint: Description
+      Value: |
+        <span style="background-color: #ffffff; text-align: right; color: #777777;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</span>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "ad7517e3-599d-4db7-8174-e22b2009bf2e"
+      Hint: Date
+      Value: DECEMBER 2012
+    - ID: "e9c71045-f59c-43b1-bfd4-a6f9b620037a"
+      Hint: Image
+      Value: |
+        <image mediaid="{CB7D2328-D12F-4C91-B0E9-F6EFBBBFD8CD}" />

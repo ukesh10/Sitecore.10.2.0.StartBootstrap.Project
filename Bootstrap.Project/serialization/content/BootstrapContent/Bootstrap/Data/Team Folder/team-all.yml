@@ -1,0 +1,35 @@
+﻿---
+ID: "de9ebddd-4298-43d1-8abd-1687daf71a39"
+Parent: "5562e776-ffcb-477f-8557-5342856325f7"
+Template: "35eb8d31-741e-439c-914c-71cef71bc3dd"
+Path: "/sitecore/content/Bootstrap/Data/Team Folder/team-all"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230511T134700Z
+    - ID: "405b4840-36c1-456d-943c-cf59e777048a"
+      Hint: Title
+      Value: OUR AMAZING TEAM
+    - ID: "461999ac-cee0-4873-9042-3eb158839660"
+      Hint: Description
+      Value: |
+        <span style="background-color: #eeeeee; text-align: center; color: #777777;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</span>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "ee13bb75-6571-4f47-bf7a-e38455266e01"
+      Hint: Slides
+      Type: Treelist
+      Value: |
+        {9062DC1C-7BBA-48F3-83D7-A96EE6EC6777}
+        {D1D2A1C3-D642-49D1-9538-EDB3C94C8BE5}
+        {BF0D6D5C-F6DD-4D2E-AAAE-9112E9944B64}
+    - ID: "f414e798-40d4-4ae6-9b2a-d54690f58109"
+      Hint: Summary
+      Value: Lorem ipsum dolor sit amet consectetur.

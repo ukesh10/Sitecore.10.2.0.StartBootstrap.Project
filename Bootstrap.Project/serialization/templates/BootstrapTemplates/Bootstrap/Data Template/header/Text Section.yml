@@ -1,0 +1,18 @@
+﻿---
+ID: "0b025cd3-3578-4de5-aa62-5789cdce8e84"
+Parent: "c3ff7ba7-c4b1-47c7-8462-042ba7ae5086"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Bootstrap/Data Template/header/Text Section
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230506T175116Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

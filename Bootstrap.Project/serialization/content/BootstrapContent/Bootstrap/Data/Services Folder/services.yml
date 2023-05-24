@@ -1,0 +1,45 @@
+﻿---
+ID: "1aea8f6d-52d5-44f5-81c5-351934c396a4"
+Parent: "9f13dd97-5dd0-4700-9ae5-9a36dc5194e0"
+Template: "1c6983ca-a884-4d8e-8dad-d29f549d1d9b"
+Path: /sitecore/content/Bootstrap/Data/Services Folder/services
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "018bd9eb-f0ab-459c-93ab-ea9ea8ac72c0"
+      Hint: Subtitle 1
+      Value: "E-Commerce"
+    - ID: "022a8056-cedd-46c7-b0ad-5cbe5a375c57"
+      Hint: Summary
+      Value: Lorem ipsum dolor sit amet consectetur.
+    - ID: "1255ce12-51b2-4293-8c45-9fa595b2a929"
+      Hint: Description 1
+      Value: |
+        <span style="background-color: #ffffff; text-align: center; color: #777777;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</span>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230511T113743Z
+    - ID: "2825b405-69e7-4923-ac16-363eb41f1795"
+      Hint: Subtitle 2
+      Value: Responsive Design
+    - ID: "2a79c878-a63a-49ab-a398-71ddbdb5cd10"
+      Hint: Description 2
+      Value: |
+        <span style="background-color: #ffffff; text-align: center; color: #777777;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</span>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "64af41d3-573e-4559-a4ae-adfab480384a"
+      Hint: Description 3
+      Value: |
+        <span style="background-color: #ffffff; text-align: center; color: #777777;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</span>
+    - ID: "8c17583a-6cda-40a0-a9cb-c3c6072c5f4f"
+      Hint: Title
+      Value: SERVICES
+    - ID: "eaf64d5f-b85c-44f6-a492-7c02fe143f04"
+      Hint: Subtitle 3
+      Value: Web Security

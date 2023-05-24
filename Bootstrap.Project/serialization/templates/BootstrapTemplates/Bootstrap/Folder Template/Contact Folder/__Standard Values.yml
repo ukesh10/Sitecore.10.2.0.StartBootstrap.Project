@@ -1,0 +1,25 @@
+﻿---
+ID: "e2a31fa0-bb72-4ddc-97b4-f1706f7757e2"
+Parent: "38d3269e-cf53-47fb-8c30-69d43b7ad109"
+Template: "38d3269e-cf53-47fb-8c30-69d43b7ad109"
+Path: /sitecore/templates/Bootstrap/Folder Template/Contact Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {38D3269E-CF53-47FB-8C30-69D43B7AD109}
+    {E6DA5997-5FFE-4825-A44B-22CFC87DF3DD}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230511T140417Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

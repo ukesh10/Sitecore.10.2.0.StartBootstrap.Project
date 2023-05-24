@@ -1,0 +1,35 @@
+﻿---
+ID: "8ec2dc9b-b693-42fc-ad2a-1155d84f7afe"
+Parent: "20adaf64-d585-4b33-a7f4-0fb3699aa6b1"
+Template: "8f399915-211f-40bc-87f1-9baa251d6417"
+Path: /sitecore/content/Bootstrap/Data/About Folder/aboutall data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230511T094958Z
+    - ID: "28d90937-497d-47ce-a9bc-ec82d6742724"
+      Hint: slides
+      Type: Treelist
+      Value: |
+        {38479CD3-0902-462F-B8C4-7BEF0B1E1C9C}
+        {3077FB3D-B478-4DCD-839F-C054AE5AA4B7}
+        {DAC9A505-ACE2-441A-950F-555BC55F328E}
+        {0D5DE471-3E52-4344-8E70-AC4DF5B3D1EE}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6a46ffd4-243c-4725-a55b-4af7742ba6b5"
+      Hint: Footer
+      Value: "BE PART OF OUR STORY!"
+    - ID: "dc73e25e-a911-4a95-be5c-67a2840a7948"
+      Hint: Title
+      Value: ABOUT
+    - ID: "fc9f60d0-ada7-4883-b05d-e80c96b276d9"
+      Hint: Summary
+      Value: Lorem ipsum dolor sit amet consectetur.

@@ -1,0 +1,14 @@
+﻿---
+ID: "b877d586-aaca-4cbd-b7e7-2660cb78da8f"
+Parent: "19b7d57e-7aa5-4e14-ac95-616f720f88ae"
+Template: "bbb38b26-4043-441b-adda-f3588bf7d7ca"
+Path: /sitecore/content/Bootstrap/Home
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230506T170437Z

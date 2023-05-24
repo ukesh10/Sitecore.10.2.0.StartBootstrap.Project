@@ -1,0 +1,17 @@
+﻿@using Sitecore.Mvc
+@using Sitecore.Mvc.Presentation
+@model Sitecore.Data.Items.Item
+
+@if (Model != null)
+{
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <div class="intro-text">
+                <div class="intro-lead-in">@Html.Sitecore().Field("Title", Model)</div>
+                <div class="intro-heading">@Html.Sitecore().Field("Subtitle", Model)</div>
+                @Html.Sitecore().Field("Primary Link", Model, new {@class = "page-scroll btn btn-xl" })
+            </div>
+        </div>
+    </header>
+}

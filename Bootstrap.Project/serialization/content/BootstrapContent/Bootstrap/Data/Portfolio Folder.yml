@@ -1,0 +1,18 @@
+﻿---
+ID: "91616fd8-81f8-4fe9-91cc-ad4f0fa95019"
+Parent: "89cef763-8e0e-4fb3-a0f1-17a6aa974af6"
+Template: "50dbf067-22ac-4c6f-b0a2-d41ab6cd01e4"
+Path: /sitecore/content/Bootstrap/Data/Portfolio Folder
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 175
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230511T145338Z

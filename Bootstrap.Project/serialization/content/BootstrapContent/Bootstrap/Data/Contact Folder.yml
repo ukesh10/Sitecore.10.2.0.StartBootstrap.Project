@@ -1,0 +1,18 @@
+﻿---
+ID: "d1e16c8c-3b2b-44c0-bb29-0d80e81878ba"
+Parent: "89cef763-8e0e-4fb3-a0f1-17a6aa974af6"
+Template: "38d3269e-cf53-47fb-8c30-69d43b7ad109"
+Path: /sitecore/content/Bootstrap/Data/Contact Folder
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230511T140512Z

@@ -1,0 +1,28 @@
+﻿---
+ID: "d1d2a1c3-d642-49d1-9538-edb3c94c8be5"
+Parent: "5562e776-ffcb-477f-8557-5342856325f7"
+Template: "b69d6397-6578-47c3-bc83-f95b2e3223df"
+Path: /sitecore/content/Bootstrap/Data/Team Folder/Team Data 2
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "09fd7a07-1387-4ed0-8fd6-782866d3a739"
+      Hint: Position
+      Value: Lead Marketer
+    - ID: "175c4bf6-5863-4ee1-aeaf-57f48979cf4f"
+      Hint: Name
+      Value: Larry Parker
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230511T134728Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "ccdebdae-e05f-44d1-b419-6fffaa37bb3d"
+      Hint: Image
+      Value: |
+        <image mediaid="{5C740BC4-7A40-40CA-A4F1-FC416734A938}" />

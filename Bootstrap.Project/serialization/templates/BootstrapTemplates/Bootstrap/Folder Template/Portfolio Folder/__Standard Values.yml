@@ -1,0 +1,26 @@
+﻿---
+ID: "5e53b9c4-fdbd-44d9-882e-80af54876794"
+Parent: "50dbf067-22ac-4c6f-b0a2-d41ab6cd01e4"
+Template: "50dbf067-22ac-4c6f-b0a2-d41ab6cd01e4"
+Path: /sitecore/templates/Bootstrap/Folder Template/Portfolio Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {50DBF067-22AC-4C6F-B0A2-D41AB6CD01E4}
+    {B248E772-AEE5-49BE-A808-06E89BDE8C2B}
+    {317AF023-3A76-4AD5-B9BC-AA3305B9EEF7}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230511T145106Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

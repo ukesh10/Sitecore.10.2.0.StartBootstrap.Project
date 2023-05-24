@@ -1,0 +1,28 @@
+﻿---
+ID: "a2c22e7d-fe50-4581-b198-dde8d54c7376"
+Parent: "91616fd8-81f8-4fe9-91cc-ad4f0fa95019"
+Template: "317af023-3a76-4ad5-b9bc-aa3305b9eef7"
+Path: "/sitecore/content/Bootstrap/Data/Portfolio Folder/portfolio-data 1"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230511T145354Z
+    - ID: "4440f998-70bf-47f0-b26e-392c9005d141"
+      Hint: Header
+      Value: Round Icons
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8d193164-533d-42fe-88f4-145028692c67"
+      Hint: Image
+      Value: |
+        <image mediaid="{26D04682-9244-40C3-89D5-E41E10A6CC55}" />
+    - ID: "cfb9e640-6f71-4f76-8ab5-83e253366e08"
+      Hint: "Sub-Header"
+      Value: Graphic Design

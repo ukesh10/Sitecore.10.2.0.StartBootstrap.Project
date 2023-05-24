@@ -1,0 +1,26 @@
+﻿---
+ID: "d72f13c6-4619-494a-8897-e7a6a88f02aa"
+Parent: "f4258aad-5e0d-461e-acf3-79ef93c1ab80"
+Template: "f4258aad-5e0d-461e-acf3-79ef93c1ab80"
+Path: /sitecore/templates/Bootstrap/Folder Template/Team Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {B69D6397-6578-47C3-BC83-F95B2E3223DF}
+    {F4258AAD-5E0D-461E-ACF3-79EF93C1AB80}
+    {35EB8D31-741E-439C-914C-71CEF71BC3DD}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230511T134153Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
